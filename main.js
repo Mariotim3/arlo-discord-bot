@@ -117,7 +117,7 @@ message.channel.send('Pledge has been **disabled!**')
 
 
 
-client.login('OTk1MTgzNDM3NDY2MDUwNjky.GJQHro.0Mm4ToJhmLSyG-kD2X0JXCq-bNY6SPark4VjvM');
+client.login('BOT TOKEN');
 
 
 
